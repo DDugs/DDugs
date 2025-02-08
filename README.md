@@ -1,7 +1,7 @@
 <h1 align="vcenter"><b>Hey, Dhruv here </b></h1>
 
 <p align="vcenter">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=20F724&width=435&lines=CyberSecurity+Enthusiast;CTF+Player;React.js+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=17D100&width=500&lines=CyberSecurity+Enthusiast;CTF+Player;React.js+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlteXR3YWswNzJ5d202YnBrYmYweXRibmFjbnhnY3U1cnJoazI0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 50px></picture> **About me**
