@@ -11,7 +11,7 @@
 
 - Hi, I’m Dhruv Vishesh Gupta
 - Currently learning Web Security & Bug Bounty hunting.
-- Excited to collaborate on cybersecurity with fellow cyber guys!
+- Excited to collaborate on cybersecurity projects with fellow cyber guys!
 - Connect - [Main](https://linktr.ee/ddugs)
 
 <br>
