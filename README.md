@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlteXR3YWswNzJ5d202YnBrYmYweXRibmFjbnhnY3U1cnJoazI0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hpZnc1ZGRobW9sN2J6bDlwcWd5aGV6dWNjZGF6emM4cThnaDU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUW0Q2r7yhTUJiMIHd/giphy.gif" width = 350px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hpZnc1ZGRobW9sN2J6bDlwcWd5aGV6dWNjZGF6emM4cThnaDU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUW0Q2r7yhTUJiMIHd/giphy.gif" width = 250px></picture>
 <br>
 
 - Hi, I’m Dhruv Vishesh Gupta
