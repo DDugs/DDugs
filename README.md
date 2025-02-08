@@ -1,18 +1,18 @@
 <h1 align="center"><b>Hi , I'm Dhruv Vishesh Gupta </b></h1>
 
-<p align="center">
+<p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=20F724&width=435&lines=CyberSecurity+Enthusiast;CTF+Player;React.js+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlteXR3YWswNzJ5d202YnBrYmYweXRibmFjbnhnY3U1cnJoazI0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lrM2ptcXJmN2cxdmliczl0N3pibHVvMXFjcGdsNGhpZGF3N29wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width = 370px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lrM2ptcXJmN2cxdmliczl0N3pibHVvMXFjcGdsNGhpZGF3N29wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width = 350px></picture>
 <br>
 
 - Hi, I’m Dhruv Vishesh Gupta
 - Currently learning Web Security & Bug Bounty hunting.
-- Excited to collaborate on cybersecurity with fellow cyber guys!.
-- Connect - [Main](https://linktr.ee/ddugs).
+- Excited to collaborate on cybersecurity with fellow cyber guys!
+- Connect - [Main](https://linktr.ee/ddugs)
 
 <br>
 
