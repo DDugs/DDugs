@@ -1,4 +1,4 @@
-<h1 align="vcenter"><b>Hey Dhruv here </b></h1>
+<h1 align="vcenter"><b>Hey, Dhruv here </b></h1>
 
 <p align="vcenter">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=20F724&width=435&lines=CyberSecurity+Enthusiast;CTF+Player;React.js+Developer" alt="Typing SVG" /></a>
