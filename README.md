@@ -36,7 +36,7 @@
 
 <div align="center">
  <a href="https://tryhackme.com/p/ddugs"><img src="https://tryhackme-badges.s3.amazonaws.com/ddugs.png?5" alt="TryHackMe"></a>
-![ctftime](https://github.com/user-attachments/assets/797063b8-3876-40c0-8e1c-997d26821ee8)
+                                         <img src="https://github.com/user-attachments/assets/797063b8-3876-40c0-8e1c-997d26821ee8">
 </div>
 
 
