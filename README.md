@@ -36,7 +36,7 @@
 
 <div align="center">
  <a href="https://tryhackme.com/p/ddugs"><img src="https://tryhackme-badges.s3.amazonaws.com/ddugs.png?5" alt="TryHackMe"></a>
- <a href="https://ctftime.org/stats/2025/IN"><img src="https://github.com/user-attachments/assets/797063b8-3876-40c0-8e1c-997d26821ee8" width=300px; height=50px;><a/>
+ <a href="https://ctftime.org/stats/2025/IN"><img src="https://github.com/user-attachments/assets/797063b8-3876-40c0-8e1c-997d26821ee8" width=400px; height=60px;><a/>
 </div>
 
 
